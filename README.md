@@ -1,6 +1,16 @@
 # E-Commerce Customer Segmentation & Lifetime Value Modeling — End-to-End Analytics
 **RFM (Recency, Frequency, Monetary) Segmentation · KMeans Clustering · Probabilistic CLV · Predictive Modeling · Power BI**
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-FF6F61?style=for-the-badge&logoColor=white)](https://seaborn.pydata.org/)
+[![Math](https://img.shields.io/badge/Math-4A90D9?style=for-the-badge&logoColor=white)](https://docs.python.org/3/library/math.html)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![K-means](https://img.shields.io/badge/K--means-FFD700?style=for-the-badge&logoColor=black)](https://en.wikipedia.org/wiki/K-means_clustering)
+[![Customer Lifetime Value](https://img.shields.io/badge/Customer_Lifetime_Value-1E6B5E?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Customer_lifetime_value)
+[![RFM](https://img.shields.io/badge/RFM-4CAF50?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/RFM_model)
 ---
 
 ## Problem Statement
