@@ -12,6 +12,8 @@
 [![K-means](https://img.shields.io/badge/K--means-FFD700?style=for-the-badge&logoColor=black)](https://en.wikipedia.org/wiki/K-means_clustering)
 [![Customer Lifetime Value](https://img.shields.io/badge/Customer_Lifetime_Value-1E6B5E?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Customer_lifetime_value)
 [![RFM](https://img.shields.io/badge/RFM-4CAF50?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/RFM_model)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 ---
 
 ## Problem Statement
